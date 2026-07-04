@@ -102,39 +102,3 @@ Visualizes how the COB start and end times changed over time.
 
 Shows the duration trend of the COB process across different dates.
 
-## Learning Outcome
-
-Through this project, I gained practical experience in creating a simple Business Intelligence dashboard using Power BI and Excel.
-
-This project helped me understand how raw operational data can be converted into useful visual insights for easier monitoring and reporting.
-
-I also learned how to:
-
-- Import Excel data into Power BI
-- Create calculated columns and measures
-- Design a simple dashboard layout
-- Visualize time-based operational data
-- Use charts, cards, tables, and filters
-- Present data in a way that is easier for teams to understand
-
-## Future Improvements
-
-In the future, this dashboard can be improved by:
-
-- Connecting directly to a database or data warehouse
-- Automating data refresh
-- Adding process status or error analysis
-- Adding weekly and monthly trend summaries
-- Creating KPI indicators for delayed COB processes
-- Improving UI design and responsiveness
-- Publishing the dashboard with scheduled refresh
-
-## Project Type
-
-This is a beginner-friendly Business Intelligence case study created using Power BI and Excel.
-
-## Author
-
-**Thamuditha Veenath Gamaethige**  
-BSc (Hons) IT Graduate  
-Interested in Software Development, Business Intelligence, Data Analytics, and IT Operations
